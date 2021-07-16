@@ -2,59 +2,45 @@
   [
     [
       "Index of Happiness",
-      "09:00",
-      "10:00",
-      "11:00",
-      "12:00",
-      "13:00"
+      "Asignados",
+      "En proceso",
+      "Finalizados"
     ],
     [
-      "Eden",
+      "Edwin Alfaro",
       243,
       518,
-      727,
-      628,
-      136
+      727
     ],
     [
-      "Shambhala",
+      "Angel Cuellar",
       670,
       829,
-      657,
-      502,
-      425
+      657
     ],
     [
-      "Avalon",
+      "Juan Rodas",
       375,
       349,
-      479,
-      135,
-      131
+      479
     ],
     [
-      "Camelot",
+      "Alexandar Chávez",
       418,
       694,
-      616,
-      881,
-      852
+      616
     ],
     [
-      "El Dorado",
+      "Kevin Morán",
       332,
       351,
-      529,
-      680,
-      776
+      529
     ],
     [
-      "Atlantis",
+      "Ever Vásquez",
       407,
       489,
-      482,
-      606,
-      743
+      482
     ]
   ]
 ]
