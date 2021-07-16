@@ -1,7 +1,7 @@
 [
   [
     [
-      "Index of Happiness",
+      "Junio",
       "Asignados",
       "En proceso",
       "Finalizados"
@@ -41,6 +41,50 @@
       407,
       489,
       482
+    ]
+  ],
+  [
+    [
+      "Julio",
+      "Asignados",
+      "En proceso",
+      "Finalizados"
+    ],
+    [
+      "Edwin Alfaro",
+      123,
+      425,
+      512
+    ],
+    [
+      "Angel Cuellar",
+      378,
+      415,
+      348
+    ],
+    [
+      "Juan Rodas",
+      315,
+      250,
+      377
+    ],
+    [
+      "Alexandar Chávez",
+      245,
+      412,
+      427
+    ],
+    [
+      "Kevin Morán",
+      278,
+      297,
+      411
+    ],
+    [
+      "Ever Vásquez",
+      199,
+      278,
+      311
     ]
   ]
 ]
