@@ -1,0 +1,92 @@
+[
+  {
+    "categoria": "Gestiones",
+    "fecha": "24/9/2021",
+    "total": 25
+  },
+  {
+    "categoria": "Reclamos",
+    "fecha": "24/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "Procedimientos",
+    "fecha": "24/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "Gestiones",
+    "fecha": "25/9/2021",
+    "total": 24
+  },
+  {
+    "categoria": "Reclamos",
+    "fecha": "25/9/2021",
+    "total": 11
+  },
+  {
+    "categoria": "Procedimientos",
+    "fecha": "25/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "Gestiones",
+    "fecha": "26/9/2021",
+    "total": 29
+  },
+  {
+    "categoria": "Reclamos",
+    "fecha": "26/9/2021",
+    "total": 8
+  },
+  {
+    "categoria": "Procedimientos",
+    "fecha": "26/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "Gestiones",
+    "fecha": "27/9/2021",
+    "total": 27
+  },
+  {
+    "categoria": "Reclamos",
+    "fecha": "27/9/2021",
+    "total": 16
+  },
+  {
+    "categoria": "Procedimientos",
+    "fecha": "27/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "Gestiones",
+    "fecha": "28/9/2021",
+    "total": 22
+  },
+  {
+    "categoria": "Reclamos",
+    "fecha": "28/9/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "fecha": "28/9/2021",
+    "total": 6
+  },
+  {
+    "categoria": "Gestiones",
+    "fecha": "29/9/2021",
+    "total": 29
+  },
+  {
+    "categoria": "Reclamos",
+    "fecha": "29/9/2021",
+    "total": 12
+  },
+  {
+    "categoria": "Procedimientos",
+    "fecha": "29/9/2021",
+    "total": 3
+  }
+]
