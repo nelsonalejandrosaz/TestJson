@@ -1,0 +1,1570 @@
+[
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 24
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 72
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 0
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 24
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 72
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 15
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "procesos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "procesos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 13
+  },
+  {
+    "categoria": "procesos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 8
+  },
+  {
+    "categoria": "procesos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 0
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "24/9/2021",
+    "total": 29
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "24/9/2021",
+    "total": 65
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "24/9/2021",
+    "total": 11
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "24/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "24/9/2021",
+    "total": 26
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "24/9/2021",
+    "total": 67
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "24/9/2021",
+    "total": 14
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "24/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "24/9/2021",
+    "total": 27
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "24/9/2021",
+    "total": 67
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "24/9/2021",
+    "total": 11
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "24/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "24/9/2021",
+    "total": 21
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "24/9/2021",
+    "total": 80
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "24/9/2021",
+    "total": 15
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "24/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 28
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 80
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 12
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 0
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 30
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 62
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 20
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "procesos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "procesos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 14
+  },
+  {
+    "categoria": "procesos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "procesos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "25/9/2021",
+    "total": 23
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "25/9/2021",
+    "total": 73
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "25/9/2021",
+    "total": 16
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "25/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "25/9/2021",
+    "total": 28
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "25/9/2021",
+    "total": 72
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "25/9/2021",
+    "total": 19
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "25/9/2021",
+    "total": 0
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "25/9/2021",
+    "total": 21
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "25/9/2021",
+    "total": 70
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "25/9/2021",
+    "total": 11
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "25/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "25/9/2021",
+    "total": 27
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "25/9/2021",
+    "total": 78
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "25/9/2021",
+    "total": 16
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "25/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 26
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 66
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 14
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 30
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 62
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 14
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "procesos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 8
+  },
+  {
+    "categoria": "procesos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 14
+  },
+  {
+    "categoria": "procesos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "procesos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "26/9/2021",
+    "total": 23
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "26/9/2021",
+    "total": 63
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "26/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "26/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "26/9/2021",
+    "total": 22
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "26/9/2021",
+    "total": 71
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "26/9/2021",
+    "total": 20
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "26/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "26/9/2021",
+    "total": 20
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "26/9/2021",
+    "total": 65
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "26/9/2021",
+    "total": 19
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "26/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "26/9/2021",
+    "total": 24
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "26/9/2021",
+    "total": 66
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "26/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "26/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 29
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 62
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 17
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 25
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 74
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 15
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 5
+  },
+  {
+    "categoria": "procesos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 7
+  },
+  {
+    "categoria": "procesos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 14
+  },
+  {
+    "categoria": "procesos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 8
+  },
+  {
+    "categoria": "procesos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 0
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "27/9/2021",
+    "total": 26
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "27/9/2021",
+    "total": 75
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "27/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "27/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "27/9/2021",
+    "total": 29
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "27/9/2021",
+    "total": 72
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "27/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "27/9/2021",
+    "total": 0
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "27/9/2021",
+    "total": 24
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "27/9/2021",
+    "total": 72
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "27/9/2021",
+    "total": 20
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "27/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "27/9/2021",
+    "total": 22
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "27/9/2021",
+    "total": 65
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "27/9/2021",
+    "total": 11
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "27/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 29
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 67
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 12
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 27
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 75
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 0
+  },
+  {
+    "categoria": "procesos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "procesos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 15
+  },
+  {
+    "categoria": "procesos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "procesos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "28/9/2021",
+    "total": 21
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "28/9/2021",
+    "total": 74
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "28/9/2021",
+    "total": 11
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "28/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "28/9/2021",
+    "total": 21
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "28/9/2021",
+    "total": 69
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "28/9/2021",
+    "total": 18
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "28/9/2021",
+    "total": 0
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "28/9/2021",
+    "total": 24
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "28/9/2021",
+    "total": 74
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "28/9/2021",
+    "total": 16
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "28/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "28/9/2021",
+    "total": 24
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "28/9/2021",
+    "total": 77
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "28/9/2021",
+    "total": 15
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "28/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 21
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 65
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 16
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 25
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 80
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 12
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "procesos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 5
+  },
+  {
+    "categoria": "procesos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 20
+  },
+  {
+    "categoria": "procesos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 5
+  },
+  {
+    "categoria": "procesos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "29/9/2021",
+    "total": 26
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "29/9/2021",
+    "total": 77
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "29/9/2021",
+    "total": 19
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "29/9/2021",
+    "total": 0
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "29/9/2021",
+    "total": 24
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "29/9/2021",
+    "total": 69
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "29/9/2021",
+    "total": 15
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "29/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "29/9/2021",
+    "total": 30
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "29/9/2021",
+    "total": 80
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "29/9/2021",
+    "total": 14
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "29/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "29/9/2021",
+    "total": 30
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "29/9/2021",
+    "total": 60
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "29/9/2021",
+    "total": 12
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "29/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 29
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 75
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 12
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 21
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 78
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 19
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "procesos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 6
+  },
+  {
+    "categoria": "procesos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "procesos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "procesos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "30/9/2021",
+    "total": 29
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "30/9/2021",
+    "total": 67
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "30/9/2021",
+    "total": 18
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "30/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "30/9/2021",
+    "total": 30
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "30/9/2021",
+    "total": 62
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "30/9/2021",
+    "total": 18
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "30/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "30/9/2021",
+    "total": 20
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "30/9/2021",
+    "total": 69
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "30/9/2021",
+    "total": 15
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "30/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "30/9/2021",
+    "total": 20
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "30/9/2021",
+    "total": 67
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "30/9/2021",
+    "total": 16
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "30/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 28
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 62
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 15
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 3
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 27
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 79
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 17
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 4
+  },
+  {
+    "categoria": "procesos",
+    "estado": "ingresado",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 9
+  },
+  {
+    "categoria": "procesos",
+    "estado": "en proceso",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 15
+  },
+  {
+    "categoria": "procesos",
+    "estado": "finalizados",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 4
+  },
+  {
+    "categoria": "procesos",
+    "estado": "rechazados",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 2
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "1/10/2021",
+    "total": 24
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "1/10/2021",
+    "total": 64
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "1/10/2021",
+    "total": 11
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "1/10/2021",
+    "total": 2
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "Santa Ana",
+    "fecha": "1/10/2021",
+    "total": 26
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "Santa Ana",
+    "fecha": "1/10/2021",
+    "total": 76
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "Santa Ana",
+    "fecha": "1/10/2021",
+    "total": 20
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "Santa Ana",
+    "fecha": "1/10/2021",
+    "total": 5
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "1/10/2021",
+    "total": 30
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "1/10/2021",
+    "total": 75
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "1/10/2021",
+    "total": 10
+  },
+  {
+    "categoria": "gestiones",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "1/10/2021",
+    "total": 0
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "ingresado",
+    "regional": "San Miguel",
+    "fecha": "1/10/2021",
+    "total": 30
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "en proceso",
+    "regional": "San Miguel",
+    "fecha": "1/10/2021",
+    "total": 62
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "finalizados",
+    "regional": "San Miguel",
+    "fecha": "1/10/2021",
+    "total": 16
+  },
+  {
+    "categoria": "reclamos",
+    "estado": "rechazados",
+    "regional": "San Miguel",
+    "fecha": "1/10/2021",
+    "total": 1
+  }
+]
