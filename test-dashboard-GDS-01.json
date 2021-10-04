@@ -1,434 +1,596 @@
 [
-    {
-      "categoria": "Gestiones",
-      "regional": "San Salvador",
-      "fecha": "24/9/2021",
-      "total": 22
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Salvador",
-      "fecha": "24/9/2021",
-      "total": 14
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Salvador",
-      "fecha": "24/9/2021",
-      "total": 6
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "Santa Ana",
-      "fecha": "24/9/2021",
-      "total": 22
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "Santa Ana",
-      "fecha": "24/9/2021",
-      "total": 8
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "Santa Ana",
-      "fecha": "24/9/2021",
-      "total": 3
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Miguel",
-      "fecha": "24/9/2021",
-      "total": 24
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Miguel",
-      "fecha": "24/9/2021",
-      "total": 13
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Miguel",
-      "fecha": "24/9/2021",
-      "total": 5
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Salvador",
-      "fecha": "25/9/2021",
-      "total": 24
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Salvador",
-      "fecha": "25/9/2021",
-      "total": 13
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Salvador",
-      "fecha": "25/9/2021",
-      "total": 2
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "Santa Ana",
-      "fecha": "25/9/2021",
-      "total": 20
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "Santa Ana",
-      "fecha": "25/9/2021",
-      "total": 13
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "Santa Ana",
-      "fecha": "25/9/2021",
-      "total": 2
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Miguel",
-      "fecha": "25/9/2021",
-      "total": 29
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Miguel",
-      "fecha": "25/9/2021",
-      "total": 8
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Miguel",
-      "fecha": "25/9/2021",
-      "total": 1
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Salvador",
-      "fecha": "26/9/2021",
-      "total": 23
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Salvador",
-      "fecha": "26/9/2021",
-      "total": 15
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Salvador",
-      "fecha": "26/9/2021",
-      "total": 4
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "Santa Ana",
-      "fecha": "26/9/2021",
-      "total": 26
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "Santa Ana",
-      "fecha": "26/9/2021",
-      "total": 16
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "Santa Ana",
-      "fecha": "26/9/2021",
-      "total": 6
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Miguel",
-      "fecha": "26/9/2021",
-      "total": 22
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Miguel",
-      "fecha": "26/9/2021",
-      "total": 13
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Miguel",
-      "fecha": "26/9/2021",
-      "total": 6
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Salvador",
-      "fecha": "27/9/2021",
-      "total": 29
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Salvador",
-      "fecha": "27/9/2021",
-      "total": 10
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Salvador",
-      "fecha": "27/9/2021",
-      "total": 2
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "Santa Ana",
-      "fecha": "27/9/2021",
-      "total": 25
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "Santa Ana",
-      "fecha": "27/9/2021",
-      "total": 13
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "Santa Ana",
-      "fecha": "27/9/2021",
-      "total": 3
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Miguel",
-      "fecha": "27/9/2021",
-      "total": 26
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Miguel",
-      "fecha": "27/9/2021",
-      "total": 17
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Miguel",
-      "fecha": "27/9/2021",
-      "total": 4
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Salvador",
-      "fecha": "28/9/2021",
-      "total": 28
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Salvador",
-      "fecha": "28/9/2021",
-      "total": 14
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Salvador",
-      "fecha": "28/9/2021",
-      "total": 5
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "Santa Ana",
-      "fecha": "28/9/2021",
-      "total": 30
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "Santa Ana",
-      "fecha": "28/9/2021",
-      "total": 15
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "Santa Ana",
-      "fecha": "28/9/2021",
-      "total": 4
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Miguel",
-      "fecha": "28/9/2021",
-      "total": 24
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Miguel",
-      "fecha": "28/9/2021",
-      "total": 9
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Miguel",
-      "fecha": "28/9/2021",
-      "total": 5
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Salvador",
-      "fecha": "29/9/2021",
-      "total": 26
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Salvador",
-      "fecha": "29/9/2021",
-      "total": 17
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Salvador",
-      "fecha": "29/9/2021",
-      "total": 1
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "Santa Ana",
-      "fecha": "29/9/2021",
-      "total": 26
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "Santa Ana",
-      "fecha": "29/9/2021",
-      "total": 9
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "Santa Ana",
-      "fecha": "29/9/2021",
-      "total": 2
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Miguel",
-      "fecha": "29/9/2021",
-      "total": 21
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Miguel",
-      "fecha": "29/9/2021",
-      "total": 12
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Miguel",
-      "fecha": "29/9/2021",
-      "total": 2
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Salvador",
-      "fecha": "30/9/2021",
-      "total": 29
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Salvador",
-      "fecha": "30/9/2021",
-      "total": 17
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Salvador",
-      "fecha": "30/9/2021",
-      "total": 5
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "Santa Ana",
-      "fecha": "30/9/2021",
-      "total": 25
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "Santa Ana",
-      "fecha": "30/9/2021",
-      "total": 13
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "Santa Ana",
-      "fecha": "30/9/2021",
-      "total": 3
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Miguel",
-      "fecha": "30/9/2021",
-      "total": 28
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Miguel",
-      "fecha": "30/9/2021",
-      "total": 13
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Miguel",
-      "fecha": "30/9/2021",
-      "total": 3
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Salvador",
-      "fecha": "1/10/2021",
-      "total": 30
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Salvador",
-      "fecha": "1/10/2021",
-      "total": 10
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Salvador",
-      "fecha": "1/10/2021",
-      "total": 5
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "Santa Ana",
-      "fecha": "1/10/2021",
-      "total": 20
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "Santa Ana",
-      "fecha": "1/10/2021",
-      "total": 10
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "Santa Ana",
-      "fecha": "1/10/2021",
-      "total": 3
-    },
-    {
-      "categoria": "Gestiones",
-      "regional": "San Miguel",
-      "fecha": "1/10/2021",
-      "total": 28
-    },
-    {
-      "categoria": "Reclamos",
-      "regional": "San Miguel",
-      "fecha": "1/10/2021",
-      "total": 11
-    },
-    {
-      "categoria": "Procedimientos",
-      "regional": "San Miguel",
-      "fecha": "1/10/2021",
-      "total": 2
-    }
-  ]
+  {
+    "categoria": "Gestiones",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 22
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 14
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Salvador",
+    "fecha": "24/9/2021",
+    "total": 6
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "Santa Ana",
+    "fecha": "24/9/2021",
+    "total": 22
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "Santa Ana",
+    "fecha": "24/9/2021",
+    "total": 8
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "Santa Ana",
+    "fecha": "24/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Miguel",
+    "fecha": "24/9/2021",
+    "total": 24
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Miguel",
+    "fecha": "24/9/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Miguel",
+    "fecha": "24/9/2021",
+    "total": 5
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 24
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Salvador",
+    "fecha": "25/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "Santa Ana",
+    "fecha": "25/9/2021",
+    "total": 20
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "Santa Ana",
+    "fecha": "25/9/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "Santa Ana",
+    "fecha": "25/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Miguel",
+    "fecha": "25/9/2021",
+    "total": 29
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Miguel",
+    "fecha": "25/9/2021",
+    "total": 8
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Miguel",
+    "fecha": "25/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 23
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 15
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Salvador",
+    "fecha": "26/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "Santa Ana",
+    "fecha": "26/9/2021",
+    "total": 26
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "Santa Ana",
+    "fecha": "26/9/2021",
+    "total": 16
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "Santa Ana",
+    "fecha": "26/9/2021",
+    "total": 6
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Miguel",
+    "fecha": "26/9/2021",
+    "total": 22
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Miguel",
+    "fecha": "26/9/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Miguel",
+    "fecha": "26/9/2021",
+    "total": 6
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 29
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 10
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Salvador",
+    "fecha": "27/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "Santa Ana",
+    "fecha": "27/9/2021",
+    "total": 25
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "Santa Ana",
+    "fecha": "27/9/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "Santa Ana",
+    "fecha": "27/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Miguel",
+    "fecha": "27/9/2021",
+    "total": 26
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Miguel",
+    "fecha": "27/9/2021",
+    "total": 17
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Miguel",
+    "fecha": "27/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 28
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 14
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Salvador",
+    "fecha": "28/9/2021",
+    "total": 5
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "Santa Ana",
+    "fecha": "28/9/2021",
+    "total": 30
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "Santa Ana",
+    "fecha": "28/9/2021",
+    "total": 15
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "Santa Ana",
+    "fecha": "28/9/2021",
+    "total": 4
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Miguel",
+    "fecha": "28/9/2021",
+    "total": 24
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Miguel",
+    "fecha": "28/9/2021",
+    "total": 9
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Miguel",
+    "fecha": "28/9/2021",
+    "total": 5
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 26
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 17
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Salvador",
+    "fecha": "29/9/2021",
+    "total": 1
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "Santa Ana",
+    "fecha": "29/9/2021",
+    "total": 26
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "Santa Ana",
+    "fecha": "29/9/2021",
+    "total": 9
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "Santa Ana",
+    "fecha": "29/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Miguel",
+    "fecha": "29/9/2021",
+    "total": 21
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Miguel",
+    "fecha": "29/9/2021",
+    "total": 12
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Miguel",
+    "fecha": "29/9/2021",
+    "total": 2
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 29
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 17
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Salvador",
+    "fecha": "30/9/2021",
+    "total": 5
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "Santa Ana",
+    "fecha": "30/9/2021",
+    "total": 25
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "Santa Ana",
+    "fecha": "30/9/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "Santa Ana",
+    "fecha": "30/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Miguel",
+    "fecha": "30/9/2021",
+    "total": 28
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Miguel",
+    "fecha": "30/9/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Miguel",
+    "fecha": "30/9/2021",
+    "total": 3
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 25
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 15
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Salvador",
+    "fecha": "1/10/2021",
+    "total": 6
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "Santa Ana",
+    "fecha": "1/10/2021",
+    "total": 20
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "Santa Ana",
+    "fecha": "1/10/2021",
+    "total": 10
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "Santa Ana",
+    "fecha": "1/10/2021",
+    "total": 3
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Miguel",
+    "fecha": "1/10/2021",
+    "total": 28
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Miguel",
+    "fecha": "1/10/2021",
+    "total": 11
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Miguel",
+    "fecha": "1/10/2021",
+    "total": 2
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Salvador",
+    "fecha": "2/10/2021",
+    "total": 22
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Salvador",
+    "fecha": "2/10/2021",
+    "total": 14
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Salvador",
+    "fecha": "2/10/2021",
+    "total": 6
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "Santa Ana",
+    "fecha": "2/10/2021",
+    "total": 22
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "Santa Ana",
+    "fecha": "2/10/2021",
+    "total": 8
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "Santa Ana",
+    "fecha": "2/10/2021",
+    "total": 3
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Miguel",
+    "fecha": "2/10/2021",
+    "total": 24
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Miguel",
+    "fecha": "2/10/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Miguel",
+    "fecha": "2/10/2021",
+    "total": 5
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Salvador",
+    "fecha": "3/10/2021",
+    "total": 24
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Salvador",
+    "fecha": "3/10/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Salvador",
+    "fecha": "3/10/2021",
+    "total": 2
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "Santa Ana",
+    "fecha": "3/10/2021",
+    "total": 20
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "Santa Ana",
+    "fecha": "3/10/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "Santa Ana",
+    "fecha": "3/10/2021",
+    "total": 2
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Miguel",
+    "fecha": "3/10/2021",
+    "total": 29
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Miguel",
+    "fecha": "3/10/2021",
+    "total": 8
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Miguel",
+    "fecha": "3/10/2021",
+    "total": 1
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Salvador",
+    "fecha": "4/10/2021",
+    "total": 23
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Salvador",
+    "fecha": "4/10/2021",
+    "total": 15
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Salvador",
+    "fecha": "4/10/2021",
+    "total": 4
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "Santa Ana",
+    "fecha": "4/10/2021",
+    "total": 26
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "Santa Ana",
+    "fecha": "4/10/2021",
+    "total": 16
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "Santa Ana",
+    "fecha": "4/10/2021",
+    "total": 6
+  },
+  {
+    "categoria": "Gestiones",
+    "regional": "San Miguel",
+    "fecha": "4/10/2021",
+    "total": 22
+  },
+  {
+    "categoria": "Reclamos",
+    "regional": "San Miguel",
+    "fecha": "4/10/2021",
+    "total": 13
+  },
+  {
+    "categoria": "Procedimientos",
+    "regional": "San Miguel",
+    "fecha": "4/10/2021",
+    "total": 6
+  }
+]
