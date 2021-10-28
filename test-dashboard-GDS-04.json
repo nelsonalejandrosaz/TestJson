@@ -1,30 +1,35 @@
 [
   {
     "Pais": "EL SALVADOR",
+    "IsoCode" : "SV-SS",
     "Departamento": "SAN SALVADOR",
     "Municipio": "MEJICANOS",
     "Total": 3
   },
   {
     "Pais": "EL SALVADOR",
+    "IsoCode" : "SV-SA",
     "Departamento": "SANTA ANA",
     "Municipio": "METAPÁN",
     "Total": 1
   },
   {
     "Pais": "EL SALVADOR",
+    "IsoCode" : "SV-CH",
     "Departamento": "CHALATENANGO",
     "Municipio": "SAN IGNACIO",
     "Total": 1
   },
   {
     "Pais": "EL SALVADOR",
+    "IsoCode" : "SV-SS",
     "Departamento": "SAN SALVADOR",
     "Municipio": "SAN SALVADOR",
     "Total": 1
   },
   {
     "Pais": "EL SALVADOR",
+    "IsoCode" : "SV-CU",
     "Departamento": "CUSCATLÁN",
     "Municipio": "SANTA CRUZ MICHAPA",
     "Total": 1
