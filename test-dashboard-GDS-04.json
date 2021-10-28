@@ -1,0 +1,32 @@
+[
+  {
+    "Pais": "EL SALVADOR",
+    "Departamento": "SAN SALVADOR",
+    "Municipio": "MEJICANOS",
+    "Total": 3
+  },
+  {
+    "Pais": "EL SALVADOR",
+    "Departamento": "SANTA ANA",
+    "Municipio": "METAPÁN",
+    "Total": 1
+  },
+  {
+    "Pais": "EL SALVADOR",
+    "Departamento": "CHALATENANGO",
+    "Municipio": "SAN IGNACIO",
+    "Total": 1
+  },
+  {
+    "Pais": "EL SALVADOR",
+    "Departamento": "SAN SALVADOR",
+    "Municipio": "SAN SALVADOR",
+    "Total": 1
+  },
+  {
+    "Pais": "EL SALVADOR",
+    "Departamento": "CUSCATLÁN",
+    "Municipio": "SANTA CRUZ MICHAPA",
+    "Total": 1
+  }
+]
