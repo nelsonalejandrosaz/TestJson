@@ -2,6 +2,7 @@
     {
       "Codigo": "EG-0001-21",
       "Regional": "San Salvador",
+      "Proceso": "Gestión",
       "Sector": "Electricidad",
       "Empresa": "CAESS",
       "Motivo": "Asesoría",
@@ -11,6 +12,7 @@
     {
       "Codigo": "EG-0002-21",
       "Regional": "San Salvador",
+      "Proceso": "Gestión",
       "Sector": "Electricidad",
       "Empresa": "CAESS",
       "Motivo": "Asesoría",
@@ -20,6 +22,7 @@
     {
       "Codigo": "TG-0003-21",
       "Regional": "San Salvador",
+      "Proceso": "Gestión",
       "Sector": "Telecomunicaciones",
       "Empresa": "TIGO",
       "Motivo": "Asesoría",
@@ -29,6 +32,7 @@
     {
       "Codigo": "EG-0004-21",
       "Regional": "San Salvador",
+      "Proceso": "Gestión",
       "Sector": "Electricidad",
       "Empresa": "CAESS",
       "Motivo": "Asesoría",
@@ -38,6 +42,7 @@
     {
       "Codigo": "ER-0005-21",
       "Regional": "Santa Ana",
+      "Proceso": "Reclamo",
       "Sector": "Electricidad",
       "Empresa": "CLESA",
       "Motivo": "Mala calidad de voltaje",
@@ -47,6 +52,7 @@
     {
       "Codigo": "EG-0006-21",
       "Regional": "San Salvador",
+      "Proceso": "Gestión",
       "Sector": "Electricidad",
       "Empresa": "EEO",
       "Motivo": "Entrega de facturas",
@@ -56,6 +62,7 @@
     {
       "Codigo": "ER-0007-21",
       "Regional": "San Miguel",
+      "Proceso": "Reclamo",
       "Sector": "Electricidad",
       "Empresa": "EEO",
       "Motivo": "Cobro alto",
@@ -65,6 +72,7 @@
     {
       "Codigo": "TG-0008-21",
       "Regional": "Santa Ana",
+      "Proceso": "Gestión",
       "Sector": "Telecomunicaciones",
       "Empresa": "Claro",
       "Motivo": "Fallas en el servicio",
@@ -74,6 +82,7 @@
     {
       "Codigo": "EP-0009-21",
       "Regional": "San Salvador",
+      "Proceso": "Procedimiento",
       "Sector": "Electricidad",
       "Empresa": "CAESS",
       "Motivo": "Energía consumida y no registrada (ENR)",
@@ -83,6 +92,7 @@
     {
       "Codigo": "EP-0010-21",
       "Regional": "San Miguel",
+      "Proceso": "Procedimiento",
       "Sector": "Electricidad",
       "Empresa": "EEO",
       "Motivo": "Energía consumida y no registrada (ENR)",
@@ -92,6 +102,7 @@
     {
       "Codigo": "EP-0011-21",
       "Regional": "San Miguel",
+      "Proceso": "Procedimiento",
       "Sector": "Electricidad",
       "Empresa": "EEO",
       "Motivo": "Daños a equipos",
@@ -101,6 +112,7 @@
     {
       "Codigo": "EP-0012-21",
       "Regional": "San Salvador",
+      "Proceso": "Procedimiento",
       "Sector": "Electricidad",
       "Empresa": "CAESS",
       "Motivo": "Energía consumida y no registrada (ENR)",
@@ -110,6 +122,7 @@
     {
       "Codigo": "TG-0013-21",
       "Regional": "Santa Ana",
+      "Proceso": "Gestión",
       "Sector": "Telecomunicaciones",
       "Empresa": "Claro",
       "Motivo": "Fallas en el servicio",
@@ -119,6 +132,7 @@
     {
       "Codigo": "TG-0014-21",
       "Regional": "San Salvador",
+      "Proceso": "Gestión",
       "Sector": "Telecomunicaciones",
       "Empresa": "TIGO",
       "Motivo": "Instalación de antenas",
@@ -128,6 +142,7 @@
     {
       "Codigo": "EG-0015-21",
       "Regional": "San Salvador",
+      "Proceso": "Gestión",
       "Sector": "Electricidad",
       "Empresa": "CAESS",
       "Motivo": "Asesoría",
@@ -137,6 +152,7 @@
     {
       "Codigo": "EG-0016-21",
       "Regional": "Santa Ana",
+      "Proceso": "Gestión",
       "Sector": "Electricidad",
       "Empresa": "CAESS",
       "Motivo": "Asesoría",
@@ -146,6 +162,7 @@
     {
       "Codigo": "EG-0017-21",
       "Regional": "San Salvador",
+      "Proceso": "Gestión",
       "Sector": "Electricidad",
       "Empresa": "CAESS",
       "Motivo": "Cobros indebidos",
@@ -155,6 +172,7 @@
     {
       "Codigo": "EG-0018-21",
       "Regional": "San Salvador",
+      "Proceso": "Gestión",
       "Sector": "Electricidad",
       "Empresa": "CAESS",
       "Motivo": "Asesoría",
