@@ -1,0 +1,194 @@
+[
+  {
+    "Caso": "EG-0001-21",
+    "Proceso": "Gestión",
+    "Estado": "Ingresado",
+    "Regional": "San Salvador",
+    "Tecnico": "Analista Cau",
+    "Fecha": "5/11/2021"
+  },
+  {
+    "Caso": "EG-0002-21",
+    "Proceso": "Gestión",
+    "Estado": "Ingresado",
+    "Regional": "San Salvador",
+    "Tecnico": "Jorge Molina",
+    "Fecha": "8/11/2021"
+  },
+  {
+    "Caso": "TG-0003-21",
+    "Proceso": "Gestión",
+    "Estado": "Ingresado",
+    "Regional": "San Salvador",
+    "Tecnico": "Leonel Siliezar",
+    "Fecha": "8/11/2021"
+  },
+  {
+    "Caso": "EG-0004-21",
+    "Proceso": "Gestión",
+    "Estado": "En proceso",
+    "Regional": "San Salvador",
+    "Tecnico": "Analista Cau",
+    "Fecha": "8/11/2021"
+  },
+  {
+    "Caso": "EG-0001-21",
+    "Proceso": "Gestión",
+    "Estado": "Finalizado",
+    "Regional": "San Salvador",
+    "Tecnico": "Analista Cau",
+    "Fecha": "8/11/2021"
+  },
+  {
+    "Caso": "EG-0002-21",
+    "Proceso": "Gestión",
+    "Estado": "En proceso",
+    "Regional": "San Salvador",
+    "Tecnico": "Jorge Molina",
+    "Fecha": "10/11/2021"
+  },
+  {
+    "Caso": "ER-0005-21",
+    "Proceso": "Reclamo",
+    "Estado": "En proceso",
+    "Regional": "Santa Ana",
+    "Tecnico": "Ever Vásquez",
+    "Fecha": "11/11/2021"
+  },
+  {
+    "Caso": "EG-0006-21",
+    "Proceso": "Gestión",
+    "Estado": "En proceso",
+    "Regional": "San Salvador",
+    "Tecnico": "Edwin Bonilla",
+    "Fecha": "12/11/2021"
+  },
+  {
+    "Caso": "TG-0008-21",
+    "Proceso": "Gestión",
+    "Estado": "En proceso",
+    "Regional": "Santa Ana",
+    "Tecnico": "Nury Alonzo",
+    "Fecha": "12/11/2021"
+  },
+  {
+    "Caso": "ER-0007-21",
+    "Proceso": "Reclamo",
+    "Estado": "En proceso",
+    "Regional": "San Miguel",
+    "Tecnico": "Edwin Bonilla",
+    "Fecha": "12/11/2021"
+  },
+  {
+    "Caso": "EP-0009-21",
+    "Proceso": "Procedimiento",
+    "Estado": "En proceso",
+    "Regional": "San Salvador",
+    "Tecnico": "Angel Cuellar",
+    "Fecha": "12/11/2021"
+  },
+  {
+    "Caso": "EP-0009-21",
+    "Proceso": "Procedimiento",
+    "Estado": "En proceso",
+    "Regional": "San Salvador",
+    "Tecnico": "Angel Cuellar",
+    "Fecha": "12/11/2021"
+  },
+  {
+    "Caso": "ER-0007-21",
+    "Proceso": "Reclamo",
+    "Estado": "Finalizado",
+    "Regional": "San Miguel",
+    "Tecnico": "Edwin Bonilla",
+    "Fecha": "16/11/2021"
+  },
+  {
+    "Caso": "EP-0011-21",
+    "Proceso": "Procedimiento",
+    "Estado": "En proceso",
+    "Regional": "San Miguel",
+    "Tecnico": "Noel Ramos",
+    "Fecha": "16/11/2021"
+  },
+  {
+    "Caso": "EP-0009-21",
+    "Proceso": "Procedimiento",
+    "Estado": "En proceso",
+    "Regional": "San Salvador",
+    "Tecnico": "Angel Cuellar",
+    "Fecha": "16/11/2021"
+  },
+  {
+    "Caso": "EP-0009-21",
+    "Proceso": "Procedimiento",
+    "Estado": "En proceso",
+    "Regional": "San Salvador",
+    "Tecnico": "Angel Cuellar",
+    "Fecha": "16/11/2021"
+  },
+  {
+    "Caso": "EP-0010-21",
+    "Proceso": "Procedimiento",
+    "Estado": "En proceso",
+    "Regional": "San Miguel",
+    "Tecnico": "Noel Ramos",
+    "Fecha": "16/11/2021"
+  },
+  {
+    "Caso": "EP-0012-21",
+    "Proceso": "Procedimiento",
+    "Estado": "Finalizado",
+    "Regional": "San Salvador",
+    "Tecnico": "Analista Cau",
+    "Fecha": "17/11/2021"
+  },
+  {
+    "Caso": "TG-0013-21",
+    "Proceso": "Gestión",
+    "Estado": "En proceso",
+    "Regional": "Santa Ana",
+    "Tecnico": "Nury Alonzo",
+    "Fecha": "19/11/2021"
+  },
+  {
+    "Caso": "TG-0014-21",
+    "Proceso": "Gestión",
+    "Estado": "Ingresado",
+    "Regional": "San Salvador",
+    "Tecnico": "Alexander  Chávez",
+    "Fecha": "24/11/2021"
+  },
+  {
+    "Caso": "EG-0015-21",
+    "Proceso": "Gestión",
+    "Estado": "Ingresado",
+    "Regional": "San Salvador",
+    "Tecnico": "Jorge Molina",
+    "Fecha": "24/11/2021"
+  },
+  {
+    "Caso": "EG-0016-21",
+    "Proceso": "Gestión",
+    "Estado": "Ingresado",
+    "Regional": "Santa Ana",
+    "Tecnico": "Carlos Miranda",
+    "Fecha": "24/11/2021"
+  },
+  {
+    "Caso": "EG-0017-21",
+    "Proceso": "Gestión",
+    "Estado": "Ingresado",
+    "Regional": "San Salvador",
+    "Tecnico": "Leonel Siliezar",
+    "Fecha": "25/11/2021"
+  },
+  {
+    "Caso": "EG-0018-21",
+    "Proceso": "Gestión",
+    "Estado": "Ingresado",
+    "Regional": "San Salvador",
+    "Tecnico": "Alexander  Chávez",
+    "Fecha": "3/12/2021"
+  }
+]
