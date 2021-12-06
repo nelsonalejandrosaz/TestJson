@@ -1,0 +1,164 @@
+[
+    {
+      "Codigo": "EG-0001-21",
+      "Regional": "San Salvador",
+      "Sector": "Electricidad",
+      "Empresa": "CAESS",
+      "Motivo": "Asesoría",
+      "FechaIngreso": "5/11/2021",
+      "FechaFinalizacion": "8/11/2021"
+    },
+    {
+      "Codigo": "EG-0002-21",
+      "Regional": "San Salvador",
+      "Sector": "Electricidad",
+      "Empresa": "CAESS",
+      "Motivo": "Asesoría",
+      "FechaIngreso": "8/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "TG-0003-21",
+      "Regional": "San Salvador",
+      "Sector": "Telecomunicaciones",
+      "Empresa": "TIGO",
+      "Motivo": "Asesoría",
+      "FechaIngreso": "8/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "EG-0004-21",
+      "Regional": "San Salvador",
+      "Sector": "Electricidad",
+      "Empresa": "CAESS",
+      "Motivo": "Asesoría",
+      "FechaIngreso": "8/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "ER-0005-21",
+      "Regional": "Santa Ana",
+      "Sector": "Electricidad",
+      "Empresa": "CLESA",
+      "Motivo": "Mala calidad de voltaje",
+      "FechaIngreso": "11/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "EG-0006-21",
+      "Regional": "San Salvador",
+      "Sector": "Electricidad",
+      "Empresa": "EEO",
+      "Motivo": "Entrega de facturas",
+      "FechaIngreso": "12/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "ER-0007-21",
+      "Regional": "San Miguel",
+      "Sector": "Electricidad",
+      "Empresa": "EEO",
+      "Motivo": "Cobro alto",
+      "FechaIngreso": "12/11/2021",
+      "FechaFinalizacion": "16/11/2021"
+    },
+    {
+      "Codigo": "TG-0008-21",
+      "Regional": "Santa Ana",
+      "Sector": "Telecomunicaciones",
+      "Empresa": "Claro",
+      "Motivo": "Fallas en el servicio",
+      "FechaIngreso": "12/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "EP-0009-21",
+      "Regional": "San Salvador",
+      "Sector": "Electricidad",
+      "Empresa": "CAESS",
+      "Motivo": "Energía consumida y no registrada (ENR)",
+      "FechaIngreso": "12/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "EP-0010-21",
+      "Regional": "San Miguel",
+      "Sector": "Electricidad",
+      "Empresa": "EEO",
+      "Motivo": "Energía consumida y no registrada (ENR)",
+      "FechaIngreso": "16/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "EP-0011-21",
+      "Regional": "San Miguel",
+      "Sector": "Electricidad",
+      "Empresa": "EEO",
+      "Motivo": "Daños a equipos",
+      "FechaIngreso": "16/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "EP-0012-21",
+      "Regional": "San Salvador",
+      "Sector": "Electricidad",
+      "Empresa": "CAESS",
+      "Motivo": "Energía consumida y no registrada (ENR)",
+      "FechaIngreso": "17/11/2021",
+      "FechaFinalizacion": "17/11/2021"
+    },
+    {
+      "Codigo": "TG-0013-21",
+      "Regional": "Santa Ana",
+      "Sector": "Telecomunicaciones",
+      "Empresa": "Claro",
+      "Motivo": "Fallas en el servicio",
+      "FechaIngreso": "19/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "TG-0014-21",
+      "Regional": "San Salvador",
+      "Sector": "Telecomunicaciones",
+      "Empresa": "TIGO",
+      "Motivo": "Instalación de antenas",
+      "FechaIngreso": "24/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "EG-0015-21",
+      "Regional": "San Salvador",
+      "Sector": "Electricidad",
+      "Empresa": "CAESS",
+      "Motivo": "Asesoría",
+      "FechaIngreso": "24/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "EG-0016-21",
+      "Regional": "Santa Ana",
+      "Sector": "Electricidad",
+      "Empresa": "CAESS",
+      "Motivo": "Asesoría",
+      "FechaIngreso": "24/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "EG-0017-21",
+      "Regional": "San Salvador",
+      "Sector": "Electricidad",
+      "Empresa": "CAESS",
+      "Motivo": "Cobros indebidos",
+      "FechaIngreso": "25/11/2021",
+      "FechaFinalizacion": ""
+    },
+    {
+      "Codigo": "EG-0018-21",
+      "Regional": "San Salvador",
+      "Sector": "Electricidad",
+      "Empresa": "CAESS",
+      "Motivo": "Asesoría",
+      "FechaIngreso": "3/12/2021",
+      "FechaFinalizacion": ""
+    }
+  ]
