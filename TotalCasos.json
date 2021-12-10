@@ -17,7 +17,7 @@
     "fechaFinalizacion": "2021-11-08T00:00:00",
     "tecnicoAsignado": "Analista Cau",
     "colaboradorAsignado": "S/A",
-    "finalizado": "True",
+    "finalizado": "Finalizado",
     "estadoCierre": 1,
     "tipoFinalizacion": "Exitoso",
     "diasAbierto": 1
@@ -40,7 +40,7 @@
     "fechaFinalizacion": "2021-12-09T00:00:00",
     "tecnicoAsignado": "Jorge Molina",
     "colaboradorAsignado": "S/A",
-    "finalizado": "True",
+    "finalizado": "Finalizado",
     "estadoCierre": 1,
     "tipoFinalizacion": "Exitoso",
     "diasAbierto": 23
@@ -63,7 +63,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Leonel Siliezar",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 23
@@ -86,7 +86,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Analista Cau",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 23
@@ -109,7 +109,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Ever Vásquez",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 20
@@ -132,7 +132,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Edwin Bonilla",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 19
@@ -155,7 +155,7 @@
     "fechaFinalizacion": "2021-11-16T00:00:00",
     "tecnicoAsignado": "Edwin Bonilla",
     "colaboradorAsignado": "S/A",
-    "finalizado": "True",
+    "finalizado": "Finalizado",
     "estadoCierre": 1,
     "tipoFinalizacion": "Exitoso",
     "diasAbierto": 2
@@ -178,7 +178,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Nury Alonzo",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 19
@@ -201,7 +201,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Angel Cuellar",
     "colaboradorAsignado": "Nelson Saz",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 19
@@ -224,7 +224,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Noel Ramos",
     "colaboradorAsignado": "Nelson Saz",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 17
@@ -247,7 +247,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Noel Ramos",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 17
@@ -270,7 +270,7 @@
     "fechaFinalizacion": "2021-11-17T00:00:00",
     "tecnicoAsignado": "Analista Cau",
     "colaboradorAsignado": "Juridico Cau",
-    "finalizado": "True",
+    "finalizado": "Finalizado",
     "estadoCierre": 1,
     "tipoFinalizacion": "Exitoso",
     "diasAbierto": 0
@@ -293,7 +293,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Nury Alonzo",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 14
@@ -316,7 +316,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Alexander  Chávez",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 11
@@ -339,7 +339,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Jorge Molina",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 11
@@ -362,7 +362,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Carlos Miranda",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 11
@@ -385,7 +385,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Leonel Siliezar",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 10
@@ -408,7 +408,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Alexander  Chávez",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 4
@@ -431,7 +431,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Jorge Molina",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 2
@@ -454,7 +454,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Leonel Siliezar",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 2
@@ -477,7 +477,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "S/A",
     "colaboradorAsignado": "Nelson Saz",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 2
@@ -500,7 +500,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Alexander  Chávez",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 1
@@ -523,7 +523,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Jorge Molina",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 1
@@ -546,7 +546,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Alexander  Chávez",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 1
@@ -569,7 +569,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Jorge Molina",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 1
@@ -592,7 +592,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Leonel Siliezar",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 1
@@ -615,7 +615,7 @@
     "fechaFinalizacion": null,
     "tecnicoAsignado": "Alexander  Chávez",
     "colaboradorAsignado": "S/A",
-    "finalizado": "False",
+    "finalizado": "No finalizado",
     "estadoCierre": null,
     "tipoFinalizacion": null,
     "diasAbierto": 1
